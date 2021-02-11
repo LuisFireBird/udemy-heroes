@@ -11,3 +11,4 @@
 * Flash
 * Atom
 * Hawkman
+* Lady Mera
