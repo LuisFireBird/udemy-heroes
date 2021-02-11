@@ -10,3 +10,4 @@
 * Shazam
 * Flash
 * Atom
+* Hawkman
