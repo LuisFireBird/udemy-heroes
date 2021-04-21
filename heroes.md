@@ -12,3 +12,4 @@
 * Atom
 * Hawkman
 * Lady Mera
+* Batwoman
